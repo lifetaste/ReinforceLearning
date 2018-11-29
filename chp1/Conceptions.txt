@@ -1,0 +1,7 @@
+1 state s
+2 action a
+3 reward function R(s,a,s')
+4 transition function T(s,a,s')
+5 policy p
+6 value function V(s)
+7 state-action-value function Q(s,a)
